@@ -18,4 +18,4 @@ export let month = new Date().getMonth();
 export let year = new Date().getFullYear();
 export let newMonth = month;
 
-export let dayTweeted = ` ${months[newMonth]} ${day}, ${year} `;
+export let dayTweeted = ` ${months[newMonth]} ${day}`;

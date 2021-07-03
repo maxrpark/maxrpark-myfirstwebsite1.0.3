@@ -773,6 +773,9 @@ TWEETS
   color: rgb(15, 20, 25);
   width: 95%;
 }
+.tweet-text {
+  font-family: Arial, Helvetica, sans-serif;
+}
 .tweet-btns ul {
   grid-area: d;
   display: grid;
